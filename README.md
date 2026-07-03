@@ -1,10 +1,10 @@
 # CadastroPessoasAPI
 
-API CRUD de cadastro de pessoas desenvolvida com ASP.NET Core e Entity Framework.
+API REST CRUD para cadastro de pessoas desenvolvida com ASP.NET Core Web API, Entity Framework Core e SQL Server.
 
 ## Tecnologias utilizadas
 - C#
-- ASP.NET Core
+- ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
 - Swagger
