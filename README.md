@@ -21,7 +21,7 @@ API CRUD de cadastro de pessoas desenvolvida com ASP.NET Core e Entity Framework
 1. Clone o repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone (https://github.com/yasmimalves-s/CadastroPessoasAPI.git)
 ```
 
 2. Execute:
